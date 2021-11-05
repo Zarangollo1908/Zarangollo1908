@@ -2,6 +2,7 @@
 ### 
 
 ![Black and White Square Pattern Web Designer Business Card](https://user-images.githubusercontent.com/67286095/140563225-894bd823-552c-45d5-9796-b23b4a6ed62b.jpg)
+![](https://visitor-badge.glitch.me/badge?page_id=Zarangollo1908.Zarangollo1908)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -34,11 +35,11 @@ const chencho = {
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-![](https://visitor-badge.glitch.me/badge?page_id=Zarangollo1908.Zarangollo1908)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zarangollo1908&show_icons=true)![Zarangollo1908's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zarangollo1908)
 
-
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 
 <!--
