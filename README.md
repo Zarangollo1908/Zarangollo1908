@@ -1,4 +1,6 @@
 ### Hi I`m Chencho Marín 👋
+![Black and White Simple Business Card](https://user-images.githubusercontent.com/67286095/140560914-385b7ce7-1c21-4a89-a22a-59e708e437ce.jpg)
+
 ```java
   class Person {
 2      constructor() {
