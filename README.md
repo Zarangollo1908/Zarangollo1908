@@ -1,4 +1,4 @@
-### Hi I`m Chencho Marín 👋
+### Hi I`m Chencho Marín <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![Black and White Square Pattern Web Designer Business Card](https://user-images.githubusercontent.com/67286095/140563225-894bd823-552c-45d5-9796-b23b4a6ed62b.jpg)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
