@@ -1,5 +1,15 @@
 ### Hi I`m Chencho Marín 👋
+```java
+  class Person {
+2      constructor() {
+3        this.name = "Chencho Marín";
+4        this.traits = ["DESIGN", "DEV"];
+5        this.age = new Date().getFullYear() - 2001;
+6      }
+7  }
+```
 [![Zarangollo1908's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zarangollo1908)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
