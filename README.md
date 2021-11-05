@@ -8,7 +8,7 @@
 6      }
 7  }
 ```
-[![Zarangollo1908's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zarangollo1908)](https://github.com/anuraghazra/github-readme-stats)
+[![Zarangollo1908's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zarangollo1908)]
 
 
 
