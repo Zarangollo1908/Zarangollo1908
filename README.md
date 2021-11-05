@@ -4,7 +4,7 @@
 2      constructor() {
 3        this.name = "Chencho Marín";
 4        this.traits = ["DESIGN", "DEV"];
-5        this.age = new Date().getFullYear() - 2001;
+5        this.age = new Date().getFullYear() - 1979;
 6      }
 7  }
 ```
